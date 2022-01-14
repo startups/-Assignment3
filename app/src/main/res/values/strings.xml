@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Niko\'s Movie Review</string>
+    <string name="noInternet">no internet connection</string>
+</resources>
